@@ -2,7 +2,7 @@ first = float(input('Enter first number: '))
 second = float(input('Enter second number: '))
 third = float(input('Enter third number: '))
 
-# Making decision and displaying
+# Making decision and displaying this
 if first >= second and first>=third:
     small = first
 elif second >= first and second >= third:

@@ -11,3 +11,4 @@ else:
     small = third
 
 print('Smallest = %d' %(large))
+ 

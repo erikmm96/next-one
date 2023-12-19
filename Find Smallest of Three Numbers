@@ -10,5 +10,5 @@ elif second >= first and second >= third:
 else:
     small = third
 
-print('Smallest = %d' %(large))
+print('Smallest = %d' %(large), 'number')
  
